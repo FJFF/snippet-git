@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+logging.warning('${1}')
+]]></content>
+<tabTrigger>logw</tabTrigger>
+<scope>source.python</scope>
+</snippet>

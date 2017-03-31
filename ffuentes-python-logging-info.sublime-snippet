@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+logging.info('${1}')
+]]></content>
+<tabTrigger>logi</tabTrigger>
+<scope>source.python</scope>
+</snippet>
