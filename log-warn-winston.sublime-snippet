@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-logger.warn('${1:}')
-]]></content>
-    <tabTrigger>wlog</tabTrigger>
-    <scope>source.js</scope>
-</snippet>

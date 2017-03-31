@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-logger.error('${1:}')
-]]></content>
-    <tabTrigger>elog</tabTrigger>
-    <scope>source.js</scope>
-</snippet>
