@@ -2,12 +2,22 @@
 
 Este repositorio contiene algunos snippet de creación personal.
 
-## Instalación en Windows
+## Instalación
 
-
+1. Bajar el repositorio
 
 ```console
-cd C:\Users\<nombre_usuario>\AppData\Roaming\Sublime Text 2\Packages\User
+git clone https://github.com/FJFF/sublime-snippet.git
+```
 
-git clone https://github.com/FJFF/snippet-git.git
+2. Instalar snippet
+
+```console
+make
+```
+
+## Desinstalar
+
+```console
+make clean
 ```
