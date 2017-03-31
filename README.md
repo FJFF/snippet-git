@@ -12,6 +12,8 @@ git clone https://github.com/FJFF/sublime-snippet.git
 
 2. Instalar snippet
 
+Antes de instalar, se debe cambiar el SUBLIME_PATH desde el archivo Makefile.
+
 ```console
 make
 ```
