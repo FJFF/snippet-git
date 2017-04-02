@@ -10,9 +10,13 @@ Este repositorio contiene algunos snippet de creación personal.
 git clone https://github.com/FJFF/sublime-snippet.git
 ```
 
-2. Instalar snippet
+2. Configurar Variable de ambiente
 
-Antes de instalar, se debe cambiar el SUBLIME_PATH desde el archivo Makefile.
+Se debe colocar la variable SUBLIME_PACKAGE apuntando a la carpeta
+package de sublime. La ruta puede variar entre la version 2 y 3 de la aplicacion, 
+ademas puede variar por sistema operativo.
+
+3. Instalar snippet
 
 ```console
 make
